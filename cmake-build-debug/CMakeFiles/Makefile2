@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\The works\CPP Projects\Baemij\Game_x_and_o"
+CMAKE_SOURCE_DIR = W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\The works\CPP Projects\Baemij\Game_x_and_o\cmake-build-debug"
+CMAKE_BINARY_DIR = W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/Game_x_and_o.dir/clean
 CMakeFiles/Game_x_and_o.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game_x_and_o.dir\build.make CMakeFiles/Game_x_and_o.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Game_x_and_o.dir\build.make CMakeFiles/Game_x_and_o.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\The works\CPP Projects\Baemij\Game_x_and_o\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Game_x_and_o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Game_x_and_o"
 .PHONY : CMakeFiles/Game_x_and_o.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Game_x_and_o.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\The works\CPP Projects\Baemij\Game_x_and_o\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Game_x_and_o.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\The works\CPP Projects\Baemij\Game_x_and_o\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Game_x_and_o.dir/rule
 
 # Convenience name for target.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/The works/CPP Projects/Baemij/Game_x_and_o/main.cpp" "D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug/CMakeFiles/Game_x_and_o.dir/main.cpp.obj"
+  "W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI/main.cpp" "W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI/cmake-build-debug/CMakeFiles/Game_x_and_o.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

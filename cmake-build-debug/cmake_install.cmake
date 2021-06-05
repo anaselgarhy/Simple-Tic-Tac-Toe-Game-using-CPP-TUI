@@ -1,4 +1,4 @@
-# Install script for directory: D:/The works/CPP Projects/Baemij/Game_x_and_o
+# Install script for directory: W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

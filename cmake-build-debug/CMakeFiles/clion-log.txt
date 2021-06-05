@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\The works\CPP Projects\Baemij\Game_x_and_o"
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" W:\Simple-Tic-Tac-Toe-Game-using-CPP-TUI
 -- The C compiler identification is GNU 9.2.0
 -- The CXX compiler identification is GNU 9.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug
+-- Build files have been written to: W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI/cmake-build-debug
