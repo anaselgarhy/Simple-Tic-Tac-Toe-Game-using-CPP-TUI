@@ -1,0 +1,3 @@
+D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug/CMakeFiles/Game_x_and_o.dir
+D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/The works/CPP Projects/Baemij/Game_x_and_o/cmake-build-debug/CMakeFiles/rebuild_cache.dir
