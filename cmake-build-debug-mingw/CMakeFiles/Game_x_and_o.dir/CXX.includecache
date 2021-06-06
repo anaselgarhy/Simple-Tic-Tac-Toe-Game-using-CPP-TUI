@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+W:/Simple-Tic-Tac-Toe-Game-using-CPP-TUI/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+
